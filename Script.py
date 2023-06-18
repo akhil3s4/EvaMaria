@@ -1,20 +1,19 @@
 class script(object):
-    START_TXT = """Yo...Yo...ANURAG {} 💖
-I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
-
-Its Easy To Use Me; Just Add Me To Your Group As Admin, 
-Thats All, i will Provide Movies There...🤓🤪
+    START_TXT = """Yo...Yo...AKHILESH {} 💖
+I'm Powerful Auto-Filter If you choose to be vulnerable around me, then I choose to be vulnerable around you.
+Its Easy To Use Me; ,
+i will Provide Movies There...🤓🤪
 
 
 ⚠️More Help Check Help Button Below
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by @joinracoons
 
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @luci_chloe"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
-○  Tutorial video is here @sources_cods
+○  Tutorial video is here https://za.gl/L4oGENFM
 
 ○  it's Note Complicated...🤓
 
@@ -34,9 +33,9 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 
 ○Dont Spam Me...🤒
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by @joinracoons
 
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @luci_chloe"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
@@ -46,10 +45,10 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://github.com/8769ANURAG/EvaMaria  
+- Source - https://github.com/akhil3s4/EvaMaria
 
 <b>DEVS:</b>
-- <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>"""
+- <a href=https://t.me/joinracoons>racoons</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
